@@ -16,9 +16,9 @@ Electron has depreceated `nodeIntegration: true,` in latest version if you run i
 npm install package-lock.json
 ```
 
-![rete](assets/rete.png)
+![rete](assets/rete.PNG)
 
-![screencapture](assets/screencapture.png)
+![screencapture](assets/screencapture.PNG)
 
 ## License
 
