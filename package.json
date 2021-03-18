@@ -1,0 +1,14 @@
+{
+  "name": "pb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "launcher.js",
+  "scripts": {
+    "launcher": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^11.3.0"
+  }
+}
